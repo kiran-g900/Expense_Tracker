@@ -1,0 +1,12 @@
+D:\NetCore\ExpenseTracker\LayerDAL\bin\Debug\net6.0\LayerDAL.deps.json
+D:\NetCore\ExpenseTracker\LayerDAL\bin\Debug\net6.0\LayerDAL.dll
+D:\NetCore\ExpenseTracker\LayerDAL\bin\Debug\net6.0\LayerDAL.pdb
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.AssemblyReference.cache
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\LayerDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfoInputs.cache
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfo.cs
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.CoreCompileInputs.cache
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\LayerDAL.dll
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\refint\LayerDAL.dll
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\LayerDAL.pdb
+D:\NetCore\ExpenseTracker\LayerDAL\obj\Debug\net6.0\ref\LayerDAL.dll

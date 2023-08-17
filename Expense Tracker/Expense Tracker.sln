@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expense Tracker", "Expense Tracker.csproj", "{D10C2C56-E443-4AF7-8F06-437C8E756A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerDAL", "..\LayerDAL\LayerDAL.csproj", "{6B23F0DD-0CF7-4B48-AB06-830875DE3335}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD07F170-EFAD-4CD1-81C8-53E088ED6F6D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10C2C56-E443-4AF7-8F06-437C8E756A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10C2C56-E443-4AF7-8F06-437C8E756A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10C2C56-E443-4AF7-8F06-437C8E756A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10C2C56-E443-4AF7-8F06-437C8E756A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B23F0DD-0CF7-4B48-AB06-830875DE3335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B23F0DD-0CF7-4B48-AB06-830875DE3335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B23F0DD-0CF7-4B48-AB06-830875DE3335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B23F0DD-0CF7-4B48-AB06-830875DE3335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190728B2-A989-4BCB-BD7E-18D1C161562F}
+	EndGlobalSection
+EndGlobal
